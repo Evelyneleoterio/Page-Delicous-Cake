@@ -22,6 +22,8 @@ Este projeto reforça minha capacidade de:
 
 ## 📸 Preview
 
+Acesse clicando [aqui](https://evelyneleoterio.github.io/Page-Delicous-Cake/)
+
 ![image](assets/page.png)
 
 ![Video 1 GIF](assets/page.gif)
