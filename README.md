@@ -1,6 +1,6 @@
 ![Badge](https://img.shields.io/badge/Projeto-Autoral-purple)
 
-<h2> O que é um projeto?</h1>
+<h2> O que é o projeto?</h1>
 
 🎂 🧁 Delicous Cake - Landing Page de Confeitaria (Projeto Fictício)
 Com o objetivo de apresentar minhas habilidades em desenvolvimento front-end. Apesar de ser um produto fictício, a página foi criada como se fosse a apresentação real de uma confeitaria coma proposta de captacao de clientes, com foco em design moderno, responsividade e boas práticas de HTML e CSS.
